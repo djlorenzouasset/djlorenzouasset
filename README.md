@@ -1,16 +1,22 @@
-### Hi there 👋
+## Hey, Im ᴅᴊʟᴏʀ3xᴢo
 
-<!--
-**djlorenzouasset/djlorenzouasset** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Bot and Software developer. I know Python and a bit of JavaScript.
+- Fortnite Leaker on [Twitter](https://www.twitter.com/djlorenzouasset)
+- Im currently working on <b>FortniteDataBot</b> for [Discord](https://discord.gg/3KAxpHt8Ub) and [Telegram](https://t.me/FortniteDataBot)
 
-Here are some ideas to get you started:
+### Contacts:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img align="left" width="22px" src="https://cdn.discordapp.com/attachments/791074603904139264/973195446094811216/5282551_tweet_twitter_twitter_logo_icon.png" />][twitter_link]
+
+</br>
+
+[twitter_link]: https://twitter.com/djlorenzouasset
+
+---
+<p align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=djlorenzouasset&theme=midnight-purple&show_icons=true" width=400/>
+</p>
+
+<p align="center">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=djlorenzouasset&layout=compact&theme=midnight-purple" width=400/>
+</p>

@@ -16,7 +16,3 @@
 <p align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=djlorenzouasset&theme=midnight-purple&show_icons=true" width=400/>
 </p>
-
-<p align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=djlorenzouasset&layout=compact&theme=midnight-purple" width=400/>
-</p>

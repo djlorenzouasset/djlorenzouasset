@@ -1,4 +1,4 @@
-## Hey, Im ᴅᴊʟᴏʀ3xᴢo
+## 👋 Hey, Im ᴅᴊʟᴏʀ3xᴢo
 
 - Bot and Software developer. I know Python and a bit of JavaScript.
 - Fortnite Leaker on [Twitter](https://www.twitter.com/djlorenzouasset)

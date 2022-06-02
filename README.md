@@ -1,6 +1,7 @@
 ## 👋 Hey, Im ᴅᴊʟᴏʀ3xᴢo
 
 - Bot and Software developer. I know Python and a bit of JavaScript.
+- Currently learning C and C#
 - Fortnite Leaker on [Twitter](https://www.twitter.com/djlorenzouasset)
 - Im currently working on <b>FortniteDataBot</b> for [Discord](https://discord.gg/3KAxpHt8Ub) and [Telegram](https://t.me/FortniteDataBot)
 

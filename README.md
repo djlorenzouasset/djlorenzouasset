@@ -1,6 +1,6 @@
 ## 👋 Hey, Im ᴅᴊʟᴏʀ3xᴢo
 
-- <p><img style='display:inline;' src='assets/console.png'/> Bot and Software developer.</p>
+- <p><img src='assets/console.png'/> Bot and Software developer.</p>
 - <p>Currently learning C and C# <img style='display:inline' src='assets/CS.png'/></p>
 - Fortnite Leaker on [Twitter](https://www.twitter.com/djlorenzouasset)
 - Im currently working on <b>FortniteDataBot</b> for [Discord](https://discord.gg/3KAxpHt8Ub) and [Telegram](https://t.me/FortniteDataBot)

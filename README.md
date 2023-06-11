@@ -1,6 +1,6 @@
 ### 👋 Hey!
 
-- Hi, Im **ᴅᴊʟᴏʀ3xᴢᴏ**, 18 year old developer creating stuff basically for fortnite and other games. My primary language is Python but I also know a bit of NodeJS and C#. I've created several bots on Telegram and Discord for various utilities (on discord only private bots). I've expirience with the Spotify's API and Telegram BotAPI.
+- Hi, Im **ᴅᴊʟᴏʀ3xᴢᴏ**, 18 year old developer creating stuff basically for fortnite and other games. My primary language is Python but I also know a bit of NodeJS and C#. I've created several bots on Telegram and Discord for various utilities (on discord only private bots). I've experience with the Spotify's API and Telegram BotAPI.
 
 - I'm also a Fortnite Leaker & dataminer on Twitter. Currently working on Rift (private fortnite manifest parser) and [Unreal Editor Documentation](https://github.com/djlorenzouasset/UEFN-EndpointsDocumentation) (unofficial documentation for UEFN).
 

@@ -1,6 +1,6 @@
 ### 👋 Hey!
 
-- Im **ᴅᴊʟᴏʀ3xᴢᴏ**, 18 year old developer creating stuff basically for fortnite and other games. C# & Python developer, but I also know Ruby and a bit of Java.
+- Im **ᴅᴊʟᴏʀ3xᴢᴏ**, 18 year old developer creating stuff basically for fortnite and other games. C# & Python developer; I also know a bit of Ruby and Java.
 - Currently learning NodeJS and TypeScript.
 - I'm also a Fortnite Leaker & Dataminer on Twitter. Currently working on Rift (private manifest-parser for Fortnite) and [Athena](https://github.com/djlorenzouasset/Athena).
 

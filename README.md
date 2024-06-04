@@ -1,6 +1,6 @@
 ### 👋 Hey!
 
-- Im **ᴅᴊʟᴏʀ3xᴢᴏ**, 18 year old developer creating stuff basically for fortnite and other games. C# & Python developer.
+- Im **ᴅᴊʟᴏʀ3xᴢᴏ**, 18 year old developer creating stuff basically for fortnite and other games. C#/C++ & Python developer.
 - Currently learning C++ & Unreal Engine.
 
 <br>

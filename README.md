@@ -1,7 +1,7 @@
-### 👋 Hi
+### 🥀 Hi
 Im ᴅᴊʟᴏʀ3xᴢᴏ, 19 y/o developer from Milan, Italy. I love to create things for the games I play. 
 
-I mostly use C++, C# and python. Im currently learning Unreal Engine and all the things connected to it.
+I mostly use C++, C# and python. Im currently learning Unreal Engine and all the things related to it.
  
 ---
 <p align="center">Github Stats</p>
